@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejemplo6</string>
+    <string name="txt_nombre">Nombre Contacto :</string>
+    <string name="txt_telefono">Telefono Contacto :</string>
+    <string name="txt_sexo">Sexo Contacto :</string>
+    <string name="txt_femenino">Femenino</string>
+    <string name="txt_masculino">Masculino</string>
+    <string name="txt_grabar">Grabar Contacto</string>
+    <string name="txt_ver_contactos">Ver contactos</string>
+</resources>
